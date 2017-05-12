@@ -1,0 +1,9 @@
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\bin\Debug\MegaEscritorioForm.exe.config
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\bin\Debug\MegaEscritorioForm.exe
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\bin\Debug\MegaEscritorioForm.pdb
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\obj\Debug\MegaEscritorioForm.csprojResolveAssemblyReference.cache
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\obj\Debug\MegaEscritorioForm.Form1.resources
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\obj\Debug\MegaEscritorioForm.Properties.Resources.resources
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\obj\Debug\MegaEscritorioForm.csproj.GenerateResource.Cache
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\obj\Debug\MegaEscritorioForm.exe
+C:\Users\William Montesdeoca\Documents\CIT-301c\MegaEscritorioForm\MegaEscritorioForm\obj\Debug\MegaEscritorioForm.pdb
