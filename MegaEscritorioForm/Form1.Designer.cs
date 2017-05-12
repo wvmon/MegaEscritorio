@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.numberDays = new System.Windows.Forms.ComboBox();
             this.numberDrawers = new System.Windows.Forms.ComboBox();
             this.wid = new System.Windows.Forms.TextBox();
@@ -41,6 +42,7 @@
             this.total = new System.Windows.Forms.Label();
             this.calculate = new System.Windows.Forms.Button();
             this.heading = new System.Windows.Forms.Label();
+            this.fecha = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // numberDays
@@ -196,11 +198,21 @@
             this.heading.TabIndex = 14;
             this.heading.Text = "Mega Escritorio Form";
             // 
+            // fecha
+            // 
+            this.fecha.AutoSize = true;
+            this.fecha.Location = new System.Drawing.Point(26, 9);
+            this.fecha.Name = "fecha";
+            this.fecha.Size = new System.Drawing.Size(57, 25);
+            this.fecha.TabIndex = 15;
+            this.fecha.Text = "Date";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(715, 446);
+            this.Controls.Add(this.fecha);
             this.Controls.Add(this.heading);
             this.Controls.Add(this.calculate);
             this.Controls.Add(this.total);
@@ -214,8 +226,10 @@
             this.Controls.Add(this.wid);
             this.Controls.Add(this.numberDrawers);
             this.Controls.Add(this.numberDays);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
+            this.Text = "Mega Escritorio";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -236,6 +250,7 @@
         private System.Windows.Forms.Label total;
         private System.Windows.Forms.Button calculate;
         private System.Windows.Forms.Label heading;
+        private System.Windows.Forms.Label fecha;
     }
 }
 

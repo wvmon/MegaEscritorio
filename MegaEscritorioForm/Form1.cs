@@ -8,6 +8,7 @@ namespace MegaEscritorioForm
         public Form1()
         {
             InitializeComponent();
+            fecha.Text = DateTime.Now.ToShortDateString();
         }
 
         private void buttonCalculate_Click(object sender, EventArgs e)
